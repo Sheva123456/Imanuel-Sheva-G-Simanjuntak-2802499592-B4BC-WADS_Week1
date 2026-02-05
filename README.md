@@ -37,10 +37,12 @@ Hooks allow functional components to use state and lifecycle features without ne
 React provides React Router for managing navigation in single-page applications (SPAs). It enables dynamic routing without requiring full-page reloads.
 
 
+
 Main update 5
 
 Experiment update 3
 
 Testing update 2
 
+Feature update 2
 
